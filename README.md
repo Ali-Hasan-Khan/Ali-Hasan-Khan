@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating a package for scraping Whoscored.
+<!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
 - 🌱 I’m currently learning Neural Networks.
 - 📫 How to reach me: [twitter](https://twitter.com/rockingAli5), [email](alihasank86@gmail.com)
 <!--
