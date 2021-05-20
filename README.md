@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
-- 🌱 I’m currently learning Neural Networks.
+- 🌱 I’m currently learning Support Vector Nachines.
 - 📫 How to reach me: [twitter](https://twitter.com/rockingAli5), [email](alihasank86@gmail.com)
 <!--
 **Ali-Hasan-Khan/Ali-Hasan-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
