@@ -3,7 +3,6 @@
 <!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
 - 🌱 I’m currently learning Non Linear ML Algorithms.
 <br />
-<br />
 
 
 ### Socials:
@@ -22,7 +21,6 @@
 [1]: http://www.linkedin.com/in/ali-hasan-khan-56808b123/
 [2]: http://www.twitter.com/rockingAli5
 [3]: http://www.instagram.com/rocking_ali
-<br />
 <br />
 
 
