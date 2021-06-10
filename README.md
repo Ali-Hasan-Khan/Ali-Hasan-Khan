@@ -5,7 +5,7 @@
 - 📫 How to reach me: [twitter](https://twitter.com/rockingAli5), [email](alihasank86@gmail.com)
 
 
-[![Ali Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan)](https://github.com/Ali-Hasan-Khan/github-readme-stats)
+[![Ali Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan&show_icons=true&theme=radical)](https://github.com/Ali-Hasan-Khan/github-readme-stats)
 <!--
 **Ali-Hasan-Khan/Ali-Hasan-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
