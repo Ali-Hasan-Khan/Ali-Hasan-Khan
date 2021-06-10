@@ -15,7 +15,7 @@
 [3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (github icon with padding)
 
 
-[1]: https://www.linkedin.com/in/ali-hasan-khan-56808b123/
+[1]: http://www.linkedin.com/in/ali-hasan-khan-56808b123/
 [2]: http://www.twitter.com/rockingAli5
 [3]: http://www.instagram.com/rocking_ali
 
