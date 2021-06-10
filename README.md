@@ -5,27 +5,17 @@
 - 📫 How to reach me: [twitter](https://twitter.com/rockingAli5), [email](alihasank86@gmail.com)
 
 
-<!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (github icon with padding)
 
-<!-- http://i.imgur.com/tXSoThF.png -->
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
 
 [1]: http://www.twitter.com/rockingAli5
-[2]: http://www.github.com/Ali-Hasan-Khan
+[2]: http://www.instagram.com/rocking_ali
 
 
 ---
