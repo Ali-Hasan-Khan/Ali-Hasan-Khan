@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
-- 🌱 I’m currently learning Non Linear ML Algorithms.
+- 🌱 I’m currently studying for the college entrance exams.
 <br />
 
 
