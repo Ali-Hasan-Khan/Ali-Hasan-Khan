@@ -2,6 +2,7 @@
 
 <!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
 - 🌱 I’m currently studying for the college entrance exams.
+- ❗❗ I've made the 'Scrape-Whoscored-Event-Data' repository private for some reasons. If you want the code, DM me on twitter. 
 <br />
 
 
