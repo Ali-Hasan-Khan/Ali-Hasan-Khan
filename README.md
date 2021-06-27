@@ -20,7 +20,6 @@
 [1]: http://www.linkedin.com/in/ali-hasan-khan-56808b123/
 [2]: http://www.twitter.com/rockingAli5
 [3]: http://www.instagram.com/rocking_ali
-<br/>
 
 
 ### Languages and Tools:
