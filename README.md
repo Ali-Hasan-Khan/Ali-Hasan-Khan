@@ -3,7 +3,7 @@
 <!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
 - 🌱 I’m currently studying for the college entrance exams.
 - ❗❗ I've made the 'Scrape-Whoscored-Event-Data' repository private. If you want access to it, ping me on twitter :)  
-<br />
+<br/>
 
 
 ### Socials:
@@ -22,7 +22,7 @@
 [1]: http://www.linkedin.com/in/ali-hasan-khan-56808b123/
 [2]: http://www.twitter.com/rockingAli5
 [3]: http://www.instagram.com/rocking_ali
-<br />
+<br/>
 
 
 ### Languages and Tools:
@@ -34,8 +34,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
 
-<br/><br/>
-&nbsp;
+<br/>
 
 
 ### Softwares:
@@ -48,11 +47,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-<br/><br/>
-&nbsp;
+<br/>
 
-
----
 
 [![Ali Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan&show_icons=true&theme=radical)](https://github.com/Ali-Hasan-Khan/github-readme-stats)
 
