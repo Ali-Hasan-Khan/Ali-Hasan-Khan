@@ -4,7 +4,6 @@
 - 🌱 I’m currently studying for the college entrance exams.
 - ❗❗ I've made the 'Scrape-Whoscored-Event-Data' repository private. If you want access to it, ping me on twitter :)  
 
-
 ### Socials:
 
 
@@ -47,6 +46,7 @@
 
 
 <br/>
+
 ---
 
 
