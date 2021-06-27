@@ -3,7 +3,6 @@
 <!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
 - 🌱 I’m currently studying for the college entrance exams.
 - ❗❗ I've made the 'Scrape-Whoscored-Event-Data' repository private. If you want access to it, ping me on twitter :)  
-<br/>
 
 
 ### Socials:
@@ -48,6 +47,7 @@
 
 
 <br/>
+---
 
 
 [![Ali Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan&show_icons=true&theme=radical)](https://github.com/Ali-Hasan-Khan/github-readme-stats)
