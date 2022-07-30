@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--- 🔭 I’m currently working on creating a package for scraping Whoscored.-->
-- 📖 I'm an 18 year old Senior Secondary School graduate.
-<!-- - 🌱 I'm currently studying for the college entrance exams. -->
-<!-- - ❗❗ I've made the 'Scrape-Whoscored-Event-Data' repository private. If you want access to it, ping me on twitter :)   -->
+- 📖 I'm an 19 year old coder.
 
 ### Socials:
 
