@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📖 I'm an 19 year old coder.
+- 📖 I'm a python coder.
 
 ### Socials:
 
