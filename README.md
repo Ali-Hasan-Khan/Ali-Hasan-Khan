@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 📖 I'm a python coder.
+- Coder.
+- Aspiring machine learning practitioner.
+- Novice competitive programmer.
 
 ### Socials:
 
