@@ -9,7 +9,7 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1 | height = 100px]][3]
+[![alt text][3.1] | height = 100px][3]
 
 
 [1.1]: https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg
