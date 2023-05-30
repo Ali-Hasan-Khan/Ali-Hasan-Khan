@@ -14,7 +14,7 @@
 
 [1.1]: https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg
 [2.1]: https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg
-[3.1]: <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" height="50" width="50">
+[3.1]: https://raw.githubusercontent.com/HaeckDesign/Get-Social-Social-Media-Font/d10070cf8f1c3e7731e232b494ced98f7047ea2c/images/SVG/instagram.svg
 
 
 [1]: http://www.linkedin.com/in/ali-hasan-khan-56808b123/
