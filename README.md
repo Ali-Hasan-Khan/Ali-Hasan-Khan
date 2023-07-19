@@ -53,7 +53,7 @@
 
 [![Ali Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan&show_icons=true&theme=radical)](https://github.com/Ali-Hasan-Khan/github-readme-stats)
 
-
+[![Ali Hasan's github stats](https://github.com/PencilNavigator/readme-stats-URL/api?username=Ali-Hasan-Khan&show_icons=true&theme=radical)](https://github.com/Ali-Hasan-Khan/github-readme-stats)
 
 
 
