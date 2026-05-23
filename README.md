@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a Full Stack Developer
-- Currently Building Pastel
+- Currently Doing Internship as a Backend Engineer at Mercari
 
 ### Socials:
 
